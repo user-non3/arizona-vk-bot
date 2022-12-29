@@ -9,7 +9,7 @@ use DigitalStar\vk_api\VK_api as vk_api;
 
 
 const VK_KEY = 'vk1.a.7kfvPwWjxRsiDs13GVHJ1VtVeMtCeKDK9JKXTqBKJuPR0hvGzmPEaH7wMx3AnVTUdJV_o021_IEQWIUnw5qifWYG5rWmNmkJliqNuc5zNS27ageUtTnRFGtJF9O3cKLacoto5Y9f1Ul50FIxQ-7ZGD4W14pC6zdnKxrMu--KBz9QSUbYJ5_y2gc90nsbWW8qkgkGXcIalWde1hZWGIMg-w';  // Токен сообщества
-const ACCESS_KEY = '51bd3d77';  // Тот самый ключ из сообщества
+const ACCESS_KEY = 'ArizonaSpaceVkBot';  // Тот самый ключ из сообщества
 const VERSION = '5.131'; // Версия API VK
 
 
